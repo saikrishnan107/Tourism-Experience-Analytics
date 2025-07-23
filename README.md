@@ -1,4 +1,4 @@
-# Tourism-Experience-Analytics
+# Tourism Experience Analytics
 
 Welcome to another project of Tourism Experience Analysis where I built a classification, recommendation system for tourist prediction
 
